@@ -49,7 +49,8 @@ Based on the `mine.py` file, the following modules are used:
 
 ## Credits
 
- This project was developed by 
- S. Likhitha 
- Department of Computer Science and Engineering (CSE)
- at MVGR College of Engineering.
+This application was created by:
+
+*   **S. Likhitha**
+*   Department of Computer Science and Engineering (CSE)
+*   MVGR College of Engineering
